@@ -1,4 +1,4 @@
- ##SWI-PROLOG
+ SWI-PROLOG
  
  Write a Prolog program to solve the problem mentioned below including all the family tree data, but skip the "m-th cousin" part.
  
